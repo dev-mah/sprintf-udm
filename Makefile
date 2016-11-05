@@ -1,5 +1,5 @@
 ##
-##  sprintf.js -- POSIX sprintf(3)-style String Formatting for JavaScript
+##  sprintf.es6 -- POSIX sprintf(3)-style String Formatting for JavaScript
 ##  Copyright (c) 2006-2014 Ralf S. Engelschall <rse@engelschall.com>
 ##
 ##  Permission is hereby granted, free of charge, to any person obtaining

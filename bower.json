@@ -1,12 +1,12 @@
 {
-    "name": "sprintfjs",
-    "version": "1.2.3",
+    "name": "sprintf-umd",
+    "version": "v0.0.1",
     "description": "POSIX sprintf(3)-style String Formatting for JavaScript",
     "main": "sprintf.js",
-    "homepage": "https://github.com/rse/sprintfjs",
+    "homepage": "https://github.com/dev-mah/sprintf-umd",
     "license": "MIT",
     "authors": [
-        "Ralf S. Engelschall <rse@engelschall.com>"
+        "Mahmoud Abdulhalim <mahmoud@abdulhalim.net>"
     ],
     "keywords": [
         "sprintf", "string", "format"

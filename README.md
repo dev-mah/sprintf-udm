@@ -1,5 +1,5 @@
 
-sprintf.js
+sprintf.es6
 ==========
 
 **POSIX sprintf(3)-style String Formatting for JavaScript**
@@ -17,10 +17,10 @@ This is a JavaScript implementation of POSIX sprintf(3)-style string formatting
 for use in [Node.js](http://nodejs.org/) based server and browser based client
 environments.
 
-Getting sprintf.js
+Getting sprintf.es6
 ------------------
 
-You can conveniently get sprintf.js in various ways:
+You can conveniently get sprintf.es6 in various ways:
 
 - Git: directly clone the official repository
 
@@ -32,7 +32,7 @@ You can conveniently get sprintf.js in various ways:
 
 - cURL: downloading only the main file from the repository
 
-  `$ curl -O https://raw.github.com/rse/sprintfjs/master/sprintf.js`
+  `$ curl -O https://raw.github.com/rse/sprintfjs/master/sprintf.es6`
 
 API
 ---
